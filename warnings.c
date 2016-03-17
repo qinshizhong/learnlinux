@@ -1,3 +1,6 @@
+/*
+ * -Wall:generate all warnings infomation. -w:don't generate any warnings informaion.
+ */
 #include "stdio.h"
 
 void main(void)
