@@ -1,0 +1,5 @@
+#! /bin/bash
+
+set -x
+who | egrep $1
+set +x

@@ -1,0 +1,7 @@
+#a=sort
+#bar := ab d b g q c
+#foo := $($(a) $(bar))
+#all :
+#	echo $(foo);echo $(a)
+.PHONY : all
+all : prog1 prog2 prog3 prog3

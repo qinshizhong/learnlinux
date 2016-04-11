@@ -1,0 +1,7 @@
+clean-dishes watch-TV
+eat clean-dishes
+shop cook
+shop put-away-food
+put-away-food cook
+cook eat
+put-away-food watch-TV
