@@ -17,6 +17,7 @@ int main(void)
 	else
 	{		
 		printf("I am the parent process, ID is %d.!\n", getpid());
+                sleep(2);
 	}
 
 	return 0;
