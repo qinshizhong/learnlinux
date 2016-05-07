@@ -1,0 +1,1 @@
+cmd_/home/ben/dev/working/learnlinux/hellomk/hello.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/ben/dev/working/learnlinux/hellomk/hello.ko /home/ben/dev/working/learnlinux/hellomk/hello.o /home/ben/dev/working/learnlinux/hellomk/hello.mod.o
