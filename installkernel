@@ -1,0 +1,16 @@
+guides for installing kernel in pc.
+
+
+
+choice 1:
+1.download source code.
+2.configure kernel to generate .config file. it's necessary to make the
+configuration work well for your pc. so a shortcut to generate the .config
+file is copy the one in /boot to the top level directory of kernel source 
+code.
+3.make. compile kernel image, modules.(may generate very big files in this
+way. to make it smaller, just make bzImage and then make modules.)
+4.make install_modules. copy the modules to /lib/modules.
+5.make install.(generate initrd.img file, and then copy image,system.map
+initrd.img and config to /boot, and then update the grub.config in 
+/boot/grub)

@@ -1,10 +1,91 @@
-Script started on 2016年04月08日 星期五 16时43分28秒
-]0;ben@ben-K43SD: ~/dev/working/learnlinux[01;32mben@ben-K43SD[00m:[01;34m~/dev/working/learnlinux[00m$ uptimewhatis gpg[K[K[K[K[K[K[K[K[K[Kexit
-exit
-
-Script done on 2016年04月08日 星期五 16时43分54秒
-Script started on 2016年04月08日 星期五 16时44分09秒
-]0;ben@ben-K43SD: ~/dev/working/learnlinux[01;32mben@ben-K43SD[00m:[01;34m~/dev/working/learnlinux[00m$ exit
-exit
-
-Script done on 2016年04月08日 星期五 16时44分18秒
+Script started on 2016年06月25日 星期六 09时57分31秒
+]0;ben@ben-K43SD: ~/dev/working/learnlinux[01;32mben@ben-K43SD[00m:[01;34m~/dev/working/learnlinux[00m$ 
+]0;ben@ben-K43SD: ~/dev/working/learnlinux[01;32mben@ben-K43SD[00m:[01;34m~/dev/working/learnlinux[00m$ ls
+activities    [0m[01;32mdupsample[0m      hellogcc.c       newlist         [01;32msignal2[0m
+address       dupsample.c    [01;34mhellomk[0m          new-names       signal2.c
+alarm.c       emp.lst        [01;32mhello.sh[0m         old-names       signal.c
+[34;42mapp[0m           [01;32mexeclsample[0m    [01;34mhelloworldmk[0m     optimize.c      [01;32msqrt.pl[0m
+[01;32marinar.pl[0m     execlsample.c  inc.mk           [01;32morphan[0m          string.cpp
+bar           [01;32mexecvsample[0m    [01;32minput.pl[0m         orphan.c        sum.c
+birthdays     execvsample.c  [01;32mleapyear.pl[0m      passwd.cnt      sum.h
+calendar      [01;34mextra[0m          learningway      people          systemmanage
+[01;32mchildenv[0m      file1          libdif.c         phone           temp
+childenv.c    file2          [01;32mlls[0m              [01;32mpipe1[0m           [01;32mtemp.pl[0m
+contact       file3          lls.c            pipe1.c         test1
+[01;32mctermid[0m       [01;32mfinduser[0m       [01;32mmainarg[0m          [01;32mpipe2[0m           test2
+ctermid.c     [01;32mfoo[0m            mainarg.c        pipe2.c         test.c
+dat           foo.c          mainfunc.sh      [01;32mprocess[0m         test.dif
+data          food-costs     makefile         process.c       typescript
+[01;32mdec2bin.pl[0m    foomakefile    Makefile         readme          [01;32muserpasswd.sh[0m
+[01;32mdentry.sh[0m     [01;32mfoo.sh[0m         makefilelearn.c  [01;32mregion.pl[0m       [01;32mvalcode.sh[0m
+desig.lst     [01;32mfork1[0m          masterlist       [01;32msample.pl[0m       values
+[01;32mdir[0m           fork1.c        [01;34mmk[0m               [01;32msearcharray.pl[0m  vimtest
+dir.c         gdblearn.c     name             sfile1          vimtst
+[01;32mdup2sample[0m    getpid.c       [01;32mname.pl[0m          sfile2          warnings.c
+dup2sample.c  gifts          names            [01;32msignal[0m
+]0;ben@ben-K43SD: ~/dev/working/learnlinux[01;32mben@ben-K43SD[00m:[01;34m~/dev/working/learnlinux[00m$ which ee[Kxp
+expand             expect_kibitz      expect_timed-run   explode
+expect             expect_lpunlock    expect_tknewsbiff  explode.py
+expect_autoexpect  expect_mkpasswd    expect_tkpasswd    export
+expect_autopasswd  expect_multixterm  expect_unbuffer    exportfs
+expect_cryptdir    expect_passmass    expect_weather     expr
+expect_decryptdir  expect_rftp        expect_xkibitz     
+expect_dislocate   expect_rlogin-cwd  expect_xpstat      
+expect_ftp-rfc     expect_timed-read  expiry             
+]0;ben@ben-K43SD: ~/dev/working/learnlinux[01;32mben@ben-K43SD[00m:[01;34m~/dev/working/learnlinux[00m$ which expect
+/usr/bin/expect
+]0;ben@ben-K43SD: ~/dev/working/learnlinux[01;32mben@ben-K43SD[00m:[01;34m~/dev/working/learnlinux[00m$ ls
+activities    [0m[01;32mdupsample[0m      hellogcc.c       newlist         [01;32msignal2[0m
+address       dupsample.c    [01;34mhellomk[0m          new-names       signal2.c
+alarm.c       emp.lst        [01;32mhello.sh[0m         old-names       signal.c
+[34;42mapp[0m           [01;32mexeclsample[0m    [01;34mhelloworldmk[0m     optimize.c      [01;32msqrt.pl[0m
+[01;32marinar.pl[0m     execlsample.c  inc.mk           [01;32morphan[0m          string.cpp
+bar           [01;32mexecvsample[0m    [01;32minput.pl[0m         orphan.c        sum.c
+birthdays     execvsample.c  [01;32mleapyear.pl[0m      passwd.cnt      sum.h
+calendar      [01;34mextra[0m          learningway      people          systemmanage
+[01;32mchildenv[0m      file1          libdif.c         phone           temp
+childenv.c    file2          [01;32mlls[0m              [01;32mpipe1[0m           [01;32mtemp.pl[0m
+contact       file3          lls.c            pipe1.c         test1
+[01;32mctermid[0m       [01;32mfinduser[0m       [01;32mmainarg[0m          [01;32mpipe2[0m           test2
+ctermid.c     [01;32mfoo[0m            mainarg.c        pipe2.c         test.c
+dat           foo.c          mainfunc.sh      [01;32mprocess[0m         test.dif
+data          food-costs     makefile         process.c       typescript
+[01;32mdec2bin.pl[0m    foomakefile    Makefile         readme          [01;32muserpasswd.sh[0m
+[01;32mdentry.sh[0m     [01;32mfoo.sh[0m         makefilelearn.c  [01;32mregion.pl[0m       [01;32mvalcode.sh[0m
+desig.lst     [01;32mfork1[0m          masterlist       [01;32msample.pl[0m       values
+[01;32mdir[0m           fork1.c        [01;34mmk[0m               [01;32msearcharray.pl[0m  vimtest
+dir.c         gdblearn.c     name             sfile1          vimtst
+[01;32mdup2sample[0m    getpid.c       [01;32mname.pl[0m          sfile2          warnings.c
+dup2sample.c  gifts          names            [01;32msignal[0m
+]0;ben@ben-K43SD: ~/dev/working/learnlinux[01;32mben@ben-K43SD[00m:[01;34m~/dev/working/learnlinux[00m$ mkfifo a
+]0;ben@ben-K43SD: ~/dev/working/learnlinux[01;32mben@ben-K43SD[00m:[01;34m~/dev/working/learnlinux[00m$ ls
+[0m[40;33ma[0m           dup2sample.c   gifts            names           [01;32msignal[0m
+activities  [01;32mdupsample[0m      hellogcc.c       newlist         [01;32msignal2[0m
+address     dupsample.c    [01;34mhellomk[0m          new-names       signal2.c
+alarm.c     emp.lst        [01;32mhello.sh[0m         old-names       signal.c
+[34;42mapp[0m         [01;32mexeclsample[0m    [01;34mhelloworldmk[0m     optimize.c      [01;32msqrt.pl[0m
+[01;32marinar.pl[0m   execlsample.c  inc.mk           [01;32morphan[0m          string.cpp
+bar         [01;32mexecvsample[0m    [01;32minput.pl[0m         orphan.c        sum.c
+birthdays   execvsample.c  [01;32mleapyear.pl[0m      passwd.cnt      sum.h
+calendar    [01;34mextra[0m          learningway      people          systemmanage
+[01;32mchildenv[0m    file1          libdif.c         phone           temp
+childenv.c  file2          [01;32mlls[0m              [01;32mpipe1[0m           [01;32mtemp.pl[0m
+contact     file3          lls.c            pipe1.c         test1
+[01;32mctermid[0m     [01;32mfinduser[0m       [01;32mmainarg[0m          [01;32mpipe2[0m           test2
+ctermid.c   [01;32mfoo[0m            mainarg.c        pipe2.c         test.c
+dat         foo.c          mainfunc.sh      [01;32mprocess[0m         test.dif
+data        food-costs     makefile         process.c       typescript
+[01;32mdec2bin.pl[0m  foomakefile    Makefile         readme          [01;32muserpasswd.sh[0m
+[01;32mdentry.sh[0m   [01;32mfoo.sh[0m         makefilelearn.c  [01;32mregion.pl[0m       [01;32mvalcode.sh[0m
+desig.lst   [01;32mfork1[0m          masterlist       [01;32msample.pl[0m       values
+[01;32mdir[0m         fork1.c        [01;34mmk[0m               [01;32msearcharray.pl[0m  vimtest
+dir.c       gdblearn.c     name             sfile1          vimtst
+[01;32mdup2sample[0m  getpid.c       [01;32mname.pl[0m          sfile2          warnings.c
+]0;ben@ben-K43SD: ~/dev/working/learnlinux[01;32mben@ben-K43SD[00m:[01;34m~/dev/working/learnlinux[00m$ ls -l a
+prw-rw-r-- 1 ben ben 0 6月  25 11:04 [0m[40;33ma[0m
+]0;ben@ben-K43SD: ~/dev/working/learnlinux[01;32mben@ben-K43SD[00m:[01;34m~/dev/working/learnlinux[00m$ rm a
+]0;ben@ben-K43SD: ~/dev/working/learnlinux[01;32mben@ben-K43SD[00m:[01;34m~/dev/working/learnlinux[00m$ ls
+activities    [0m[01;32mdupsample[0m      hellogcc.c       newlist         [01;32msignal2[0m
+address       dupsample.c    [01;34mhellomk[0m          new-names       signal2.c
+alarm.c       emp.lst        [01;32mhello.sh[0m         old-names       signal.c
+[34;42mapp[0m           [01;32mexeclsample[0m    [01;34mhellowor
